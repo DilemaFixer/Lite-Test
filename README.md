@@ -13,6 +13,11 @@ A lightweight, header-only unit testing framework for C projects. Simple to use,
 
 ## Quick Start
 
+``` shell
+curl -O https://raw.githubusercontent.com/DilemaFixer/Lite-Test/main/testing.h
+curl -O https://raw.githubusercontent.com/DilemaFixer/Lite-Test/main/testing.c
+```
+
 ### 1. Include the Framework
 
 Add `testing.h` and `testing.c` to your project and include the header:
