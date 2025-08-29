@@ -235,4 +235,5 @@ Suite *suite = lite_test_get_suite();
 
 ### How directory must look like example  
   
-<img width="330" height="463" alt="Снимок экрана 2025-08-29 в 18 05 13" src="https://github.com/user-attachments/assets/1f29649a-8b77-4283-9ba6-ca9ca6622314" />
+<img width="269" height="344" alt="Снимок экрана 2025-08-30 в 00 18 22" src="https://github.com/user-attachments/assets/da48ded0-afc3-4c8b-8dc9-89b3636a687b" />
+
