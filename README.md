@@ -232,3 +232,7 @@ Suite *suite = lite_test_get_suite();
 - `void lite_test_run_all(void)` - Run all registered tests
 - `Suite *lite_test_get_suite(void)` - Get the test suite
 - `void lite_test_fail(void)` - Mark current test as failed
+
+### How directory must look like example  
+  
+<img width="330" height="463" alt="Снимок экрана 2025-08-29 в 18 05 13" src="https://github.com/user-attachments/assets/1f29649a-8b77-4283-9ba6-ca9ca6622314" />
